@@ -1,7 +1,9 @@
 # Part 1: Customer Churn Prediction using Neural Networks
 
 Dataset Folder Source:- https://drive.google.com/drive/folders/1Aihn49cUYMjCgeCTFBTyprjrgZO3UY6r?usp=drive_link
+
 customer_churn_nn.csv:https://drive.google.com/file/d/1VS4UAHiS25bCLSkOAtttfn-_S-6BvL0o/view?usp=drive_link
+
 data_dictionary.md:https://drive.google.com/file/d/1u75TF3jq0AHPH7o4CFuu3FAOoUCWU7Du/view?usp=drive_link
 ## Project Overview
 This project focuses on building, tuning, and evaluating a Feed-Forward Neural Network (FFNN) to predict customer churn. The primary challenge addressed in this notebook is **severe class imbalance** (98.5% retained vs. 1.5% churned), requiring specialized preprocessing, class weighting, and evaluation metrics (AUC-ROC and Recall) to build a commercially viable retention model.
